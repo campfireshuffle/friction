@@ -18,7 +18,7 @@ function App() {
     <>
       <a
         className="repo-link"
-        href="https://github.com/sarimabbas/friction"
+        href="https://github.com/campfireshuffle/friction"
         target="_blank"
         rel="noreferrer"
         aria-label="View source on GitHub"
